@@ -20,3 +20,4 @@ urllib3==1.26.4
 virtualenv==20.4.4
 virtualenvwrapper-win==1.2.6
 whitenoise==5.2.0
+streamlit
